@@ -7,3 +7,5 @@ open end_product.py in any of the text editors and run it
 python should be installed in your system and  pygame version == 1.9.6 should be installed 
 
 the output of the code
+
+![Uploading abc.jpg…]()
