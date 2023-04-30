@@ -8,4 +8,4 @@ python should be installed in your system and  pygame version == 1.9.6 should be
 
 the output of the code
 
-![Uploading abc.jpg…]()
+![abc](https://user-images.githubusercontent.com/125186953/235375280-07554c37-6664-4885-8e87-d0838e1d9dc3.jpg)
